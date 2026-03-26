@@ -8,7 +8,7 @@ This page presents a minimal and professional introduction including:
 
 * My name and profile photo
 * My current role as a Full Stack Developer Intern
-* My association with Soursys
+* My association with Sourcesys
 * A short tagline about learning and building modern web technologies
 
 ## 🚀 Features
