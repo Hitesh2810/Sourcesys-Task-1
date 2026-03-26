@@ -7,7 +7,7 @@ This is a simple and clean personal intro webpage created to highlight my role a
 This page presents a minimal and professional introduction including:
 
 * My name and profile photo
-* My current role as a Full Stack Developer Intern
+* My current role as a Full Stack Developer
 * My association with Sourcesys
 * A short tagline about learning and building modern web technologies
 
