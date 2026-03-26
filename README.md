@@ -1,4 +1,4 @@
-# Hitesh Kumar S - Task 2 (Sourcesys)
+# Hitesh Kumar S - Task 1 (Sourcesys)
 
 This is a simple and clean personal intro webpage created to highlight my role as a **Full Stack Developer Intern at Soursys**.
 
