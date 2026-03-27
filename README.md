@@ -1,61 +1,15 @@
-# Hitesh Kumar S - Task 1 (Sourcesys)
+## 📌 About Me & Tasks
 
-This is a simple and clean personal intro webpage created to highlight my role as a **Full Stack Developer Intern at Sourcesys**.
+**Hitesh Kumar S** – Full Stack Developer Intern at Sourcesys
 
-## 🔹 About
+### 🔹 Task - 1 (GitHub & Webpage)
 
-This page presents a minimal and professional introduction including:
+* Created a GitHub repository and pushed code from my local system
+* Developed a single-page intro website using HTML, CSS, and JavaScript
+* Designed a clean and responsive UI highlighting my profile and company (Sourcesys)
 
-* My name and profile photo
-* My current role as a Full Stack Developer
-* My association with Sourcesys
-* A short tagline about learning and building modern web technologies
+### 🔹 Task - 2 (Branching & Python)
 
-## 🚀 Features
-
-* Clean and modern UI design
-* Fully responsive layout
-* Smooth hover effects
-* Centered card-based design
-* Lightweight and fast
-
-## 🛠️ Tech Stack
-
-* HTML5
-* CSS3
-* JavaScript
-
-## 📂 Project Structure
-
-* Single file project (`index.html`)
-* No external dependencies required
-
-## 📸 Preview
-
-Open the file directly in your browser:
-
-```bash
-index.html
-```
-
-## ⚙️ Setup
-
-1. Download or clone the repository
-2. Replace the profile image if needed
-3. Open `index.html` in any browser
-
-## ✨ Customization
-
-* Update name, role, or company inside the HTML
-* Replace image URL with your own photo
-* Add your LinkedIn and GitHub links
-
-## 📌 Note
-
-My task - 1
-
----
-
-**Author:** Hitesh Kumar S
-**Role:** Full Stack Developer Intern
-**Company:** Soursys
+* Created a feature branch named `Task-2` and worked on it
+* Developed an interactive Python terminal application using the `rich` library
+* Merged the `Task-2` branch into the `main` branch using Git
