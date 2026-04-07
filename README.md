@@ -13,3 +13,13 @@
 * Created a feature branch named `Task-2` and worked on it
 * Developed an interactive Python terminal application using the `rich` library
 * Merged the `Task-2` branch into the `main` branch using Git
+
+### 🔹 Task - 7 (Modular Python & Terminal UI)
+* Developed a modular Python calculator using separate files for addition, subtraction, multiplication, division, and modulus operations
+* Implemented different import techniques (`import module`, `from module import function`, etc...) to demonstrate modular programming
+* Enhanced terminal output with ANSI color formatting for a clean, structured, and user-friendly display
+
+### 🔹 Task - 8 (Python Modules & Exception Handling)
+* Implemented modular Python programs by separating operations into multiple files (addition, subtraction, multiplication, division)
+* Used built-in Python modules like `math`, `datetime`, and `random` to enhance functionality
+* Applied `try-except` exception handling in each module to handle errors and ensure smooth execution
