@@ -23,3 +23,8 @@
 * Implemented modular Python programs by separating operations into multiple files (addition, subtraction, multiplication, division)
 * Used built-in Python modules like `math`, `datetime`, and `random` to enhance functionality
 * Applied `try-except` exception handling in each module to handle errors and ensure smooth execution
+
+###  Task - 9 (OOP Concepts in Python)
+* Implemented Object-Oriented Programming concepts including Class, Object, Encapsulation, and Abstraction using Python programs
+* Demonstrated use of private variables and methods for proper data hiding and security
+* Used abstract classes and methods to define structure and improve code organization
