@@ -28,3 +28,8 @@
 * Implemented Object-Oriented Programming concepts including `Class`, `Object`, `Encapsulation`, and `Abstraction` using Python programs
 * Demonstrated use of private variables and methods for proper data hiding and security
 * Used abstract classes and methods to define structure and improve code organization
+
+### 🔹 Task - 10 (Inheritance & Polymorphism)
+* Implemented Inheritance by creating parent and child classes to reuse code and extend functionality
+* Demonstrated Polymorphism using method overriding to show different behaviors for the same method
+* Practiced writing simple Python programs to understand class relationships and dynamic behavior
