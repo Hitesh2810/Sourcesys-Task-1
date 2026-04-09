@@ -30,6 +30,6 @@
 * Used abstract classes and methods to define structure and improve code organization
 
 ### 🔹 Task - 10 (Inheritance & Polymorphism)
-* Implemented Inheritance by creating parent and child classes to reuse code and extend functionality
-* Demonstrated Polymorphism using method overriding to show different behaviors for the same method
+* Implemented `Inheritance` by creating parent and child classes to reuse code and extend functionality
+* Demonstrated `Polymorphism` using method overriding to show different behaviors for the same method
 * Practiced writing simple Python programs to understand class relationships and dynamic behavior
