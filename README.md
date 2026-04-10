@@ -33,3 +33,8 @@
 * Implemented `Inheritance` by creating parent and child classes to reuse code and extend functionality
 * Demonstrated `Polymorphism` using method overriding to show different behaviors for the same method
 * Practiced writing simple Python programs to understand class relationships and dynamic behavior
+
+### 🔹 Task - 11 (Advanced Python Concepts)
+* Implemented advanced Python concepts including `Iterators`, `Generators`, `Decorators`, `Closures`, and `Regular Expressions`
+* Demonstrated efficient data handling using iterators and generators, and enhanced functionality using decorators and closures
+* Applied regular expressions for pattern matching and validation in Python programs
